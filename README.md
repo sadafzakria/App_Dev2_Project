@@ -60,11 +60,11 @@ Smart Money Handling (SMH) is your go-to solution for taking control of your fin
 **12. Reports and Analysis:**
    - Generate financial charts and analysis.
 
-**13. Finance Form**
-    - Fill out a questionnaire about current financial transactions
+**13. Finance Form:**
+   - Fill out a questionnaire about current financial transactions
 
 **14. Support/Help Center:**
-    - Contact support.
+   - Contact support.
 
 **15. Logout:**
     - Option to log out of the app.
