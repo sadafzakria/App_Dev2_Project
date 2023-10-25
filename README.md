@@ -1,5 +1,6 @@
 ## Smart Money Handling (SMH)
-APPLICATION DEVELOPMENT 2 (MOBILE) 420-431-VA Final Project
+APPLICATION DEVELOPMENT 2 (MOBILE) 420-431-VA 
+Final Project
 
 ## Overview
 Smart Money Handling (SMH) is your go-to solution for taking control of your finances, budgeting effectively, and reaching your financial goals. It offers a user-friendly design and powerful features for easy and accessible money management.
