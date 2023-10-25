@@ -77,6 +77,8 @@ Smart Money Handling (SMH) is your go-to solution for taking control of your fin
 * Hibba Qaraman
 + Sadaf Zakria
 
+**Vanier College Computer Science Department** 
+
 
 
 
